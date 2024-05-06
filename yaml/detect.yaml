@@ -1,0 +1,8 @@
+train: /content/GreenParking_Detect/train/images  # train images (relative to 'path') 118287 images
+val: /content/GreenParking_Detect/valid/images  # val images (relative to 'path') 5000 images
+test: /content/GreenParking_Detect/test/images  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+
+nc: 1
+
+names: ['LP']
